@@ -1,0 +1,10 @@
+*.pdb
+*.exe
+*.dll
+*.xml
+*.config
+*.ico
+*.manifest
+*.application
+publish/*
+cert-files/*
